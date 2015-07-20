@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Collision()
+comment1.params=firstObj\ list
+comment1.target=edu.digipen.GameObject\ getGameObjectCollided(edu.digipen.GameObject,\ java.util.ArrayList)
+comment2.params=firstObj\ list
+comment2.target=boolean\ CheckCollisionByList(edu.digipen.GameObject,\ java.util.ArrayList)
+comment3.params=c1Position\ c1Radius\ c2Position\ c2Radius
+comment3.target=boolean\ checkCircleToCircle(edu.digipen.math.Vec2,\ float,\ edu.digipen.math.Vec2,\ float)
+comment4.params=r1Position\ r1HalfWidth\ r1HalfHeight\ r2Position\ r2HalfWidth\ r2HalfHeight
+comment4.target=boolean\ checkRectangleToRectangle(edu.digipen.math.Vec2,\ float,\ float,\ edu.digipen.math.Vec2,\ float,\ float)
+numComments=5

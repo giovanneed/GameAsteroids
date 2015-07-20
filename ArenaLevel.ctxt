@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ create()
+comment1.params=
+comment1.target=void\ initialize()
+comment2.params=dt
+comment2.target=void\ update(float)
+comment3.params=
+comment3.target=Position\ randomPosition()
+comment4.params=
+comment4.target=void\ SpawnNewEnemy()
+comment5.params=
+comment5.target=void\ SpawnAsteroid()
+comment6.params=valor
+comment6.target=void\ updateScore(int)
+comment7.params=
+comment7.target=void\ restart()
+comment8.params=
+comment8.target=void\ uninitialize()
+numComments=9

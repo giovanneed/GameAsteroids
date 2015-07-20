@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=_x\ _y
+comment0.target=Position(float,\ float)
+comment1.params=
+comment1.target=float\ getX()
+comment2.params=
+comment2.target=void\ setX()
+comment3.params=
+comment3.target=float\ getY()
+comment4.params=
+comment4.target=void\ setY()
+numComments=5

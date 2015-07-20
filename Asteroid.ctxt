@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=size_in\ arena\ textureName
+comment0.target=Asteroid(int,\ ArenaLevel,\ java.lang.String)
+comment1.params=dt
+comment1.target=void\ update(float)
+comment2.params=other
+comment2.target=void\ collisionReaction(edu.digipen.GameObject)
+numComments=3

@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=obj\ xOffset\ yOffset
+comment0.target=void\ Wrapping(edu.digipen.GameObject,\ float,\ float)
+numComments=1
